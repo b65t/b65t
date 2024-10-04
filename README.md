@@ -1,6 +1,4 @@
-### b65t 🍉
-
-#
+## b65t 🍉
 
 a beginner Programmer.
 
