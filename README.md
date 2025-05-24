@@ -17,4 +17,6 @@ a beginner Programmer.
 
 ### stats 📊
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=b65t&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b65t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="320" alt="languages graph"  />
+</div>
