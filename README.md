@@ -13,8 +13,6 @@ a beginner Programmer.
  <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
 <br />
 
-###
-
 ### What im learning
 
  <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
@@ -26,7 +24,7 @@ a beginner Programmer.
  <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
  <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> 
 
-### stats 📊
+### stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b65t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="340" alt="languages graph"  />
