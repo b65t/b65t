@@ -15,6 +15,7 @@ a beginner Programmer.
 ### What im learning
 
  <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+ <img align="left" height="30px" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 
 ### tools
